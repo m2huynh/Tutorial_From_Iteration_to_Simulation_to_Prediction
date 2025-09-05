@@ -1,9 +1,3 @@
----
-editor_options: 
-  markdown: 
-    wrap: 72
----
-
 # From Iteration to Simulation to Prediction
 
 This tutorial is for students and analysts who want to strengthen their
